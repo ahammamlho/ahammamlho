@@ -5,9 +5,9 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lahammam" alt="lahammam's 42 stats" /></a>
 </p>
 
-<p align="left">  
+
 ![](https://komarev.com/ghpvc/?username=ahammamlho)
-</p>
+
 
 
 
