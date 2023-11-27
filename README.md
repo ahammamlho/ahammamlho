@@ -8,9 +8,15 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=ahammamlho)
+<!-- ![](https://komarev.com/ghpvc/?username=ahammamlho) -->
 
+<h3 align="left">About me</h3>
+<p>
+🚀 Passionate Full Stack Developer | Seeking Internship Opportunities
 
+Hello there! 👋 I'm AHAMMAM LHOUSSAINE, a student at 1337 School, currently honing my skills in full-stack development with a focus on NestJS, NextJS, and Node.js.  Let's build something extraordinary together! 🌐
+
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -45,9 +51,8 @@
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="git" width="40" height="40"/>  
 
 </p>
-
-
 </p>
+
 
 
 
