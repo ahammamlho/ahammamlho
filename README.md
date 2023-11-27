@@ -13,14 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yassineweb3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassineweb3" height="30" width="40" /></a>
+    <a href="https://twitter.com/AHAMMAM_LHO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AHAMMAM_LHO" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/yassineidrissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassineidrissi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diamoris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahammam" height="30" width="40" /></a>
 
+<a href="https://www.instagram.com/_diamoris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_diamoris" height="30" width="40" /></a>
 
-<a href="https://fb.com/yassineidrissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassineidrissi" height="30" width="40" /></a>
-<a href="https://instagram.com/yassine._.idrissi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassine._.idrissi" height="30" width="40" /></a>
-<a href="https://discord.gg/@3002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@3002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
