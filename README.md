@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Engineer and developer from Morocco</h3>
 
 <p align = "center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lahammam" alt="lahammam's 42 stats" /></a>
+    <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/darkblue/lahammam" alt="lahammam's 42 stats" />
+    </a>
 </p>
 
 
@@ -26,6 +28,6 @@
   </a>
 
 <p align = "center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahammamlho&show_icons=true&locale=en&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahammamlho&show_icons=true&locale=en&layout=compact" />
 </p>
 
