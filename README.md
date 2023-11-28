@@ -8,7 +8,7 @@
 </p>
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=ahammamlho) -->
+![](https://komarev.com/ghpvc/?username=ahammamlho)
 
 <h3 align="left">About me</h3>
 <p>
