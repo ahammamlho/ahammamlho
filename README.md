@@ -13,7 +13,7 @@
 <p>
 🚀 Passionate Backend Developer | Seeking Internship Opportunities
 
-Hello there! 👋 I'm LHOUSSAINE, a student at 1337 School, currently honing my skills in Backend development with a focus on JavaScript, Node.js, Express.js, and MongoDB. I am always eager to learn new technologies and techniques to enhance my skills and stay up-to-date.
+Hello there! 👋 I'm LHOUSSAINE, a student at 1337 School, currently honing my skills in Backend development with a focus on JavaScript, Node.js, Express.js, and PostgreSQL. I am always eager to learn new technologies and techniques to enhance my skills and stay up-to-date.
 </p>
 
 
