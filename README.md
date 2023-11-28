@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LHOUSSAINE</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer</h3>
+<h3 align="center">🚀 Passionate Backend Developer</h3>
 
 <p align = "center">
     <a href="https://github.com/oakoudad/badge42">
@@ -12,9 +12,9 @@
 
 <h3 align="left">About me</h3>
 <p>
-🚀 Passionate Full Stack Developer | Seeking Internship Opportunities
+🚀 Passionate Backend Developer | Seeking Internship Opportunities
 
-Hello there! 👋 I'm AHAMMAM LHOUSSAINE, a student at 1337 School, currently honing my skills in full-stack development with a focus on NestJS, NextJS, and Node.js.  Let's build something extraordinary together! 🌐
+Hello there! 👋 I'm AHAMMAM LHOUSSAINE, a student at 1337 School, currently honing my skills in Backend development with a focus on Node.js.  Let's build something extraordinary together! 🌐
 
 </p>
 
