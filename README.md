@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LHOUSSAINE</h1>
-<h3 align="center">A passionate Engineer and developer from Morocco</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer</h3>
 
 <p align = "center">
     <a href="https://github.com/oakoudad/badge42">
